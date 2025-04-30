@@ -1,0 +1,7 @@
+{
+	"InstallScripts" : 
+	[
+		"/home/spll/.src/C++/sfCalculator/build/cmake_install.cmake"
+	],
+	"Parallel" : false
+}

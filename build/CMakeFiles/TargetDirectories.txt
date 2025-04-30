@@ -1,0 +1,3 @@
+/home/spll/.src/C++/sfCalculator/build/CMakeFiles/sfCalculator.dir
+/home/spll/.src/C++/sfCalculator/build/CMakeFiles/edit_cache.dir
+/home/spll/.src/C++/sfCalculator/build/CMakeFiles/rebuild_cache.dir
