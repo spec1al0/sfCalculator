@@ -2,7 +2,7 @@
 
 Label::Label()
 {
-	if (!this->font.loadFromFile("External/src/Sheeping Dogs.ttf"))
+	if (!this->font.loadFromFile("../src/External/src/Sheeping Dogs.ttf"))
 		std::cout << "Error: [invalid font]" << std::endl;
 
 	this->outputText.setFont(this->font);
